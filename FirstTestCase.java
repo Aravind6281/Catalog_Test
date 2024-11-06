@@ -1,4 +1,4 @@
-package First;
+8package First;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -96,3 +96,5 @@ public class Polynomial {
 
 
 //output constant value:26
+
+//Calculated output:-21.42
