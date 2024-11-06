@@ -95,6 +95,6 @@ public class Polynomial {
 }
 
 
-//output constant value:26
+//output constant value:39
 
 //Calculated output:-21.42
