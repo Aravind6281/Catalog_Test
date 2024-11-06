@@ -1,7 +1,10 @@
 the output's are:
 
- First TestCase: the constant value c=39
+if we consider 3 keys then
+
+First TestCase: the constant value c=39
         or
-  the calculated first testcase output by gauss jordan: -21.42
+if we consider 4 keys then
+ the calculated first testcase output by gauss jordan: -21.42
 
  Second TestCase:the ConstantValue=79836264046592
